@@ -4,5 +4,5 @@ This is simple website built with HTML and CSS. It demonstrates usage of frames 
 
 ## Usage
 
-Just click on the "index.html" to launch the website.
+Click [here] (https://nenalukic.github.io/my-funky-website/)  to launch the website.
 
